@@ -3,11 +3,11 @@
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <!DOCTYPE html>
-<!-- Website template by freewebsitetemplates.com -->
+
 <html>
 <head>
 	<meta charset="UTF-8">
-	<title>News - Bhaccasyoniztas Beach Resort Website Template</title>
+	<title>News</title>
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 </head>
 <body>
