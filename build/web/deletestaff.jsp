@@ -1,8 +1,4 @@
-<%-- 
-    Document   : delete
-    Created on : Feb 24, 2016, 3:49:49 PM
-    Author     : Oops
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
