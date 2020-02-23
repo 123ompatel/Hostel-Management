@@ -1,8 +1,3 @@
-<%-- 
-    Document   : payment
-    Created on : Feb 24, 2016, 2:03:53 PM
-    Author     : Oops
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
