@@ -1,8 +1,4 @@
-<%-- 
-    Document   : logout
-    Created on : Feb 23, 2016, 1:54:59 PM
-    Author     : Oops
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
