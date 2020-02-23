@@ -1,8 +1,4 @@
-<%-- 
-    Document   : room
-    Created on : Feb 24, 2016, 2:14:29 PM
-    Author     : Oops
---%>
+
 
 <%@page import="java.sql.ResultSet"%>
 <%@page import="java.sql.Statement"%>
